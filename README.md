@@ -64,7 +64,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Evidence
 
 ### Image
-Snapshot-Content-Location:Screenshot 2020-10-11 at 5.16.34 PM
+
 ### Reflection
 
 ---
